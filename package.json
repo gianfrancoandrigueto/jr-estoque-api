@@ -1,0 +1,14 @@
+{
+  "name": "jr-estoque-api",
+  "version": "1.0.0",
+  "description": "API de estoque JR Veiculos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.7.0"
+  }
+}
